@@ -1,0 +1,237 @@
+Sun Sep 4 18:10:04 2016,TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+Sun Sep 4 18:10:08 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:10:10 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:10 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:17 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:17 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:18 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:18 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:20 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:20 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:21 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:21 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:22 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:22 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:23 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:23 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:24 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:24 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:25 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:25 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:26 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:26 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:28 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:28 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:30 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:30 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:30 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:30 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:31 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:31 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:31 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:31 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:31 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:31 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:32 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:32 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:32 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:32 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:32 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:32 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:32 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:32 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:33 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:33 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:33 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:33 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:33 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:33 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:33 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:33 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:33 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:33 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:34 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:34 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:34 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:34 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:34 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:34 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:34 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:34 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:34 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:34 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:35 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:35 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:35 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:35 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:35 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:35 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:35 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:35 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:36 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:36 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:36 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:36 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:36 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:36 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:36 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:36 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:36 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:36 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:37 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:37 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:37 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:37 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:37 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:37 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:37 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:37 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:38 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:38 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:38 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:38 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:38 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:38 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:38 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:38 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:38 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:38 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:39 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:39 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:39 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:39 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:40 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:40 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:40 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:40 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:40 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:40 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:40 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:40 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:40 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:40 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:41 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:41 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:41 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:41 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:41 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:41 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:42 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:42 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:42 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:42 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:43 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:43 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:44 2016,RX,    Function:Error Encountered/Shutdown,SystemID:1,Status:0,Packet: 6e0001000000a90f
+Sun Sep 4 18:10:47 2016,RX,    Function:ACK,SystemID:1,Status:0,Packet: 6e00010100009e3f
+Sun Sep 4 18:10:49 2016,RX,    Function:ACK,SystemID:1,Status:0,Packet: 6e00010100009e3f
+Sun Sep 4 18:10:50 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:10:51 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:10:52 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:10:53 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:53 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:54 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:54 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:55 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:55 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:10:56 2016,RX,    Function:Error Encountered/Shutdown,SystemID:1,Status:0,Packet: 6e0001000000a90f
+Sun Sep 4 18:10:57 2016,RX,    Function:Error Encountered/Shutdown,SystemID:1,Status:0,Packet: 6e0001000000a90f
+Sun Sep 4 18:10:57 2016,RX,    Function:Error Encountered/Shutdown,SystemID:1,Status:0,Packet: 6e0001000000a90f
+Sun Sep 4 18:10:58 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:58 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:10:58 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:58 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:10:58 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:58 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:10:58 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:58 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:10:58 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:58 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:10:59 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:10:59 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:11:00 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:11:00 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:11:00 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:11:01 2016,RX,    Function:ACK,SystemID:1,Status:0,Packet: 6e00010100009e3f
+Sun Sep 4 18:11:01 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:11:02 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 18:11:03 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:03 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:07 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:07 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:08 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:08 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:09 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:09 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:10 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:11 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:11 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:12 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:13 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:14 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:14 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:16 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:16 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:19 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:20 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:21 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:21 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:21 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:22 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:22 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:23 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:24 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:25 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:25 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:27 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:27 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:28 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:28 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:29 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:31 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:32 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:33 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 18:11:33 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:35 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 18:11:35 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 18:11:37 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:37 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:11:39 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:39 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:11:40 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:40 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:11:40 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:40 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:11:41 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:41 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:11:41 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:41 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:11:42 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:42 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:11:42 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:42 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:11:43 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:43 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:11:43 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:43 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:11:43 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:43 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:11:44 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:44 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:11:44 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:44 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:11:44 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:44 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:11:44 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:44 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7722b3030302e3030302b3030312e3030302b3030322e303030b71d
+Sun Sep 4 18:11:44 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:44 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302b3030342e3030302b3030352e303030fe3c
+Sun Sep 4 18:11:45 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:45 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a7722b3030362e3030302b3030372e3030302b3030382e303030a2ae
+Sun Sep 4 18:11:45 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:45 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a7722b3030392e3030302b3031302e3030302b3031312e30303038ed
+Sun Sep 4 18:11:45 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:45 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a7722b3031322e3030302b3031332e3030302b3031342e303030188a
+Sun Sep 4 18:11:45 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sun Sep 4 18:11:45 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7722b3031352e3030302b3031362e3030302b3031372e303030bf16
+Sun Sep 4 18:11:47 2016,RX,    Function:Error Encountered/Shutdown,SystemID:1,Status:0,Packet: 6e0001000000a90f

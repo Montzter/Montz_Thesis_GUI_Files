@@ -1,0 +1,7 @@
+[Sun Sep 18 16:03:59 2016],TX,Function:Detect System,Status Updates:yes
+[Sun Sep 18 16:04:00 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Sun Sep 18 16:04:01 2016],RX,    Function:ACK,SystemID:1,Status:0
+[Sun Sep 18 16:04:01 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Sun Sep 18 16:04:02 2016],RX,    Function:Request Orientation Data,SystemID:1,Status:0
+[Sun Sep 18 16:04:02 2016],TX,Function:Orientation Data,Current Latitude:90,Current Longitude:188,Current Azimuth:-2
+[Sun Sep 18 16:04:02 2016],RX,    Function:Error Encountered/Shutdown,SystemID:1,Status:0

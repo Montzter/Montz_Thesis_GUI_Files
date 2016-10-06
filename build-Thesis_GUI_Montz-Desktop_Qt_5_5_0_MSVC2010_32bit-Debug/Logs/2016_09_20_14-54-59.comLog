@@ -1,0 +1,4 @@
+[Tue Sep 20 14:55:02 2016],TX,Function:Detect System,Status Updates:yes
+[Tue Sep 20 14:55:04 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Tue Sep 20 14:55:14 2016],TX,Function:Begin Process
+[Tue Sep 20 14:55:16 2016],TX,Function:Begin Transmitting Data

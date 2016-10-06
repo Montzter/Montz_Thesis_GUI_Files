@@ -1,0 +1,8 @@
+[Wed Sep 7 16:07:57 2016],TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+[Wed Sep 7 16:08:49 2016],RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+[Wed Sep 7 16:13:20 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e00010400070528
+[Wed Sep 7 16:13:56 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e00010400070528
+[Wed Sep 7 16:14:01 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e00010400070528
+[Wed Sep 7 16:14:03 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e00010400070528
+[Wed Sep 7 16:14:05 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e00010400070528
+[Wed Sep 7 16:14:07 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e00010400070528

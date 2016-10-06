@@ -1,0 +1,191 @@
+[Wed Oct 5 20:43:37 2016],TX,Function:Detect System,Status Updates:yes
+[Wed Oct 5 20:43:37 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Wed Oct 5 20:44:01 2016],TX,Function:Begin Process
+[Wed Oct 5 20:44:01 2016],RX,    Function:ACK,SystemID:1,Status:1
+[Wed Oct 5 20:44:05 2016],RX,    Function:Status Update,SystemID:1,Status:2
+[Wed Oct 5 20:44:05 2016],RX,    Function:Status Update,SystemID:1,Status:3
+[Wed Oct 5 20:44:06 2016],RX,    Function:Status Update,SystemID:1,Status:4
+[Wed Oct 5 20:44:06 2016],RX,    Function:Status Update,SystemID:1,Status:5
+[Wed Oct 5 20:44:07 2016],RX,    Function:Status Update,SystemID:1,Status:6
+[Wed Oct 5 20:44:07 2016],RX,    Function:Status Update,SystemID:1,Status:7
+[Wed Oct 5 20:44:08 2016],RX,    Function:Status Update,SystemID:1,Status:8
+[Wed Oct 5 20:44:08 2016],RX,    Function:Status Update,SystemID:1,Status:9
+[Wed Oct 5 20:44:09 2016],RX,    Function:Status Update,SystemID:1,Status:10
+[Wed Oct 5 20:44:09 2016],RX,    Function:Status Update,SystemID:1,Status:11
+[Wed Oct 5 20:44:10 2016],RX,    Function:Status Update,SystemID:1,Status:12
+[Wed Oct 5 20:44:10 2016],RX,    Function:Status Update,SystemID:1,Status:13
+[Wed Oct 5 20:44:14 2016],RX,    Function:Status Update,SystemID:1,Status:14
+[Wed Oct 5 20:44:15 2016],RX,    Function:Status Update,SystemID:1,Status:15
+[Wed Oct 5 20:44:16 2016],RX,    Function:Status Update,SystemID:1,Status:16
+[Wed Oct 5 20:44:16 2016],RX,    Function:Status Update,SystemID:1,Status:17
+[Wed Oct 5 20:44:17 2016],RX,    Function:Status Update,SystemID:1,Status:18
+[Wed Oct 5 20:44:17 2016],RX,    Function:Status Update,SystemID:1,Status:19
+[Wed Oct 5 20:44:18 2016],RX,    Function:Status Update,SystemID:1,Status:20
+[Wed Oct 5 20:44:19 2016],RX,    Function:Status Update,SystemID:1,Status:21
+[Wed Oct 5 20:44:19 2016],RX,    Function:Status Update,SystemID:1,Status:22
+[Wed Oct 5 20:44:20 2016],RX,    Function:Status Update,SystemID:1,Status:23
+[Wed Oct 5 20:44:20 2016],RX,    Function:Status Update,SystemID:1,Status:24
+[Wed Oct 5 20:44:24 2016],RX,    Function:Status Update,SystemID:1,Status:25
+[Wed Oct 5 20:44:25 2016],RX,    Function:Status Update,SystemID:1,Status:26
+[Wed Oct 5 20:44:25 2016],RX,    Function:Status Update,SystemID:1,Status:27
+[Wed Oct 5 20:44:26 2016],RX,    Function:Status Update,SystemID:1,Status:28
+[Wed Oct 5 20:44:26 2016],RX,    Function:Status Update,SystemID:1,Status:29
+[Wed Oct 5 20:44:27 2016],RX,    Function:Status Update,SystemID:1,Status:30
+[Wed Oct 5 20:44:27 2016],RX,    Function:Status Update,SystemID:1,Status:31
+[Wed Oct 5 20:44:28 2016],RX,    Function:Status Update,SystemID:1,Status:32
+[Wed Oct 5 20:44:28 2016],RX,    Function:Status Update,SystemID:1,Status:33
+[Wed Oct 5 20:44:29 2016],RX,    Function:Status Update,SystemID:1,Status:34
+[Wed Oct 5 20:45:01 2016],TX,Function:Begin Transmitting Data
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],TX,Function:NACK
+[Wed Oct 5 20:45:01 2016],RX,    Function:Status Update,SystemID:1,Status:37
+[Wed Oct 5 20:45:02 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Wed Oct 5 20:45:07 2016],TX,Function:Begin Process
+[Wed Oct 5 20:45:07 2016],RX,    Function:ACK,SystemID:1,Status:1
+[Wed Oct 5 20:45:11 2016],RX,    Function:Status Update,SystemID:1,Status:2
+[Wed Oct 5 20:45:11 2016],RX,    Function:Status Update,SystemID:1,Status:3
+[Wed Oct 5 20:45:12 2016],RX,    Function:Status Update,SystemID:1,Status:4
+[Wed Oct 5 20:45:12 2016],RX,    Function:Status Update,SystemID:1,Status:5
+[Wed Oct 5 20:45:13 2016],RX,    Function:Status Update,SystemID:1,Status:6
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:13 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],TX,Function:NACK
+[Wed Oct 5 20:45:14 2016],RX,    Function:Status Update,SystemID:1,Status:9
+[Wed Oct 5 20:45:15 2016],RX,    Function:Status Update,SystemID:1,Status:10
+[Wed Oct 5 20:45:15 2016],RX,    Function:Status Update,SystemID:1,Status:11
+[Wed Oct 5 20:45:16 2016],RX,    Function:Status Update,SystemID:1,Status:12
+[Wed Oct 5 20:45:16 2016],RX,    Function:Status Update,SystemID:1,Status:13
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:20 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],TX,Function:NACK
+[Wed Oct 5 20:45:21 2016],RX,    Function:Status Update,SystemID:1,Status:15
+[Wed Oct 5 20:45:22 2016],RX,    Function:Status Update,SystemID:1,Status:16
+[Wed Oct 5 20:45:23 2016],RX,    Function:Status Update,SystemID:1,Status:17
+[Wed Oct 5 20:45:23 2016],RX,    Function:Status Update,SystemID:1,Status:18
+[Wed Oct 5 20:45:24 2016],RX,    Function:Status Update,SystemID:1,Status:19
+[Wed Oct 5 20:45:24 2016],RX,    Function:Status Update,SystemID:1,Status:20
+[Wed Oct 5 20:45:25 2016],RX,    Function:Status Update,SystemID:1,Status:21
+[Wed Oct 5 20:45:25 2016],RX,    Function:Status Update,SystemID:1,Status:22
+[Wed Oct 5 20:45:26 2016],RX,    Function:Status Update,SystemID:1,Status:23
+[Wed Oct 5 20:45:26 2016],RX,    Function:Status Update,SystemID:1,Status:24
+[Wed Oct 5 20:45:30 2016],RX,    Function:Status Update,SystemID:1,Status:25
+[Wed Oct 5 20:45:31 2016],RX,    Function:Status Update,SystemID:1,Status:26
+[Wed Oct 5 20:45:31 2016],RX,    Function:Status Update,SystemID:1,Status:27
+[Wed Oct 5 20:45:32 2016],RX,    Function:Status Update,SystemID:1,Status:28
+[Wed Oct 5 20:45:32 2016],RX,    Function:Status Update,SystemID:1,Status:29
+[Wed Oct 5 20:45:33 2016],RX,    Function:Status Update,SystemID:1,Status:30
+[Wed Oct 5 20:45:33 2016],RX,    Function:Status Update,SystemID:1,Status:31
+[Wed Oct 5 20:45:34 2016],RX,    Function:Status Update,SystemID:1,Status:32
+[Wed Oct 5 20:45:34 2016],RX,    Function:Status Update,SystemID:1,Status:33
+[Wed Oct 5 20:45:35 2016],RX,    Function:Status Update,SystemID:1,Status:34
+[Wed Oct 5 20:46:07 2016],TX,Function:Begin Transmitting Data
+[Wed Oct 5 20:46:07 2016],RX,    Function:ACK,SystemID:1,Status:35
+[Wed Oct 5 20:46:07 2016],RX,    Function:Status Update,SystemID:1,Status:36
+[Wed Oct 5 20:46:07 2016],RX,    Function:Status Update,SystemID:1,Status:37
+[Wed Oct 5 20:46:08 2016],RX,    Function:Status Update,SystemID:1,Status:0

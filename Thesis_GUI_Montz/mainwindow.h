@@ -4,7 +4,11 @@
 #include <QMainWindow>
 #include "Dialog.h"
 #include <QtWidgets>
-
+#include <QSerialPort>
+#include "myuart.h"
+#include "orbitalanimationwidget.h"
+#include "imgdatreader.h"
+#include "mycustomscene.h"
 
 namespace Ui {
 class MainWindow;
@@ -19,10 +23,9 @@ public:
     void InitializeMainWindow();
     void InitializeStatusBar();
     void InitializeCentralWidget();
+    void InitializeCommandsWidget();
     int getStatusBarProgressBarValue();
     void setStatusBarVisibility(int status);
-    void setRXBlink();
-    void setTXBlink();
     void setSysStatusValText(int lblID,char LabelString[]);
     void setSysTabLabels(int LabelID, int rowNum, char StatString[], char StatVal[]);
     void setSysTabHeader(int HeaderID, int rowNum, char HeaderString[]);
@@ -38,33 +41,126 @@ public:
     void SetSysTab(int sysID);//Setup system tab based on sysID from system
     void clearSystemTab();
     void resizeEvent (QResizeEvent * event );
-
+    void moveEvent(QMoveEvent * event);
+    void disconnectUART();
     ~MainWindow();
 
 signals:
     void showSettings();
 
+    void sendAbortShutdownSignal();
+    void sendAckSignal();
+    void sendDetectSystemSignal(bool);
+    void sendBeginProcessSignal();
+    void sendBeginTransmittingDataSignal();
+    void sendOrientationData(double,double,double);
+
+    void saveCsvFile(QString);
+
 public slots:
-    void UART_RX_Message(char RX_MSG[]);
     void setStatusBarText(char LabelString[]);
     void refreshStatusBarText();
     void setStatusBarProgressBarValue(int PBVal);
+    void setRXBlink();
+    void setTXBlink();
+
+    void scenePressed_endSlot(int pixelValue, QPointF clickPosition, int histLocation);
+
+    void errorShutdownSlot(int statusByte);
+    void ackSlot(int statusByte);
+    void statusSlot(int sID, int statusByte);
+    void reqOrientationDataSlot(int statusByte);
+    void dataTransferSignal(int statusByte, QByteArray payload);
+
+    void moveMinSlider(qreal val);
+    void moveMaxSlider(qreal val);
 
 private slots:
     void on_actionClose_triggered();
     void on_actionSettings_triggered();
     void on_actionDetect_System_triggered();
+    void startTest_triggered();
+
     void resetRXIndicator();
     void resetTXIndicator();
     void refitScene();
 
-    //void on_pushButton_clicked();
+    void offsetTimer_triggered();
+    void processTimer_triggered();
+    void transmitTimer_triggered();
+    void simulationTimer_triggered();
+
+    void colorKeyButton_pressed();
+
+    void abortButton_pressed();
+    void beginProcessButton_pressed();
+    void beginTransmittingButton_pressed();
+    void beginTestButton_pressed();
+
+
+    void zoomInButton_pressed();
+    void zoomOutButton_pressed();
+    void zoomResetButton_pressed();
+
+
+    void colormapCombo_changed(int cmIndex);
+    void InvertingCheckbox_released();
+
+
+    void clickedOnLogFile(const QModelIndex &index);
+    void logRefreshButton_clicked();
+    void updateLogList();
+    void on_actionConnect_triggered();
+
+    void clickedOnImgFile(const QModelIndex &index);
+    void updateImgList();
+    void loadImg();
+
+    void updateImage();
+
+    void on_actionDisconnect_triggered();
+
+    void minSliderMoved(int value);
+    void maxSliderMoved(int value);
+    void minSliderMoved(qreal value);
+    void maxSliderMoved(qreal value);
+    void resetColormap();
+    void saveImg();
 
 private:
     Ui::MainWindow *ui;
 
+    void setColorScheme();
+
+    int numCycles;
+    int midInterval;
+    int orbInterval;
+    int procInterval;
+    QElapsedTimer *elapsedTime;
+    QTimer *simulationTimer;
+
+    //QTimer *processTimer;
+    //QTimer *transmitTimer;
+    //QTimer *offsetTimer;
+
+
+
+    void hideCommands();
+    void showCommands();
+    void updateStatus(int statusByte);
+    void OrientationFunction(bool reset);
+    int orientationIndex;
+    void loadOrientationValues();
+    double latValues[6];
+    double lonValues[6];
+    double aziValues[6];
+
     Dialog *settings;
     int sysID; //0:No id, 1:MSP430/FPGA 2:R_Pi 3:Other System?
+
+    //Objects for UART
+    MyUART *myUART;
+    //QSerialPort *mySerialPort;
 
 
     //Objects for main widget
@@ -77,6 +173,9 @@ private:
     QWidget *imgTabBorder;  //Border Widget for image tab
     QVBoxLayout *imgTabBorderLayout;
     QSplitter *imgSplitter; //Splitter for image tab
+    QWidget *logsTabBorder;
+    QVBoxLayout *logsTabBorderLayout;
+    QSplitter *logsSplitter;
 
         //System Tab Widgets
             //Left collumn of system tab splitter
@@ -130,7 +229,7 @@ private:
                 QLabel *sysStatusVal15;//
 
                 QWidget *sysStatusFiller;//
-
+                QPushButton *keyButton;
 
             //Central collumn of system tab splitter
             QWidget *sysDiagramW;
@@ -178,6 +277,7 @@ private:
                 QGraphicsLineItem *sysDiagramLine1;
 
                 QGraphicsEllipseItem *sysDiagramEllipse1;
+                QGraphicsTextItem *sysDiagramEllipse1Text;
 
                 QRadialGradient *sysDiagramEllipse1Gradient;
 
@@ -186,17 +286,142 @@ private:
             QVBoxLayout *sysCommandsVLayout;
             QLabel *sysCommandsLbl;
             QWidget *sysCommandsSubWidget;
+            QGridLayout *sysCommandsLayout;
+
+                QPushButton *abortButton;
+                QPushButton *beginProcessButton;
+                QPushButton *beginTransmissionButton;
+                QPushButton *beginTestButton;
+
+                QLabel *numCyclesLabel;
+                QLabel *timeToReachTxLabel;
+                QLabel *orbitalPeriodLabel;
+
+                QLineEdit *numCyclesLineEdit;
+                QLineEdit *timeToReachTxLineEdit;
+                QLineEdit *orbitalPeriodLineEdit;
+
+                QIntValidator *gtzIntValidator;
+
+                QWidget *cmdWindowFiller;
+
+            QLabel *sysSimulationLbl;
+            QWidget *sysSimulationWidget;
+            QVBoxLayout *sysSimulationLayout;
+                OrbitalAnimationWidget *orbitAnimation;
+                QWidget *sysSimulationFiller;
+
+    //Images Tab Widgets
+    //imgreader items
+    ImgdatReader *myImgReader;
+
+    QWidget *cImagesTab;
+    QGridLayout *imgGridLayout;
+        //Left collumn
+        QWidget *imgListLeftWidget;
+        QVBoxLayout *imgListLeftLayout;
+        QLabel *imgListLabel;
+        QWidget *imgListW;
+        QVBoxLayout *imgListLayout;
+        QListView *imgListListView;
+        QFileSystemModel *imgFileModel;
+        QString *imgfDir;
+        QString *imgfDirOld;
+        //void loadLog();
+
+        //Central collumn
+        QWidget *imgDisplayCentralWidget;
+        QVBoxLayout *imgDisplayCentralLayout;
+        QLabel *imgDisplayLabel;
+        QWidget *imgDisplayW;
+        QVBoxLayout *imgDisplayLayout;
+        QGraphicsView *imgDisplayView;
+        myCustomScene *imgDisplayScene;
+        QGraphicsRectItem *imgDisplayPointerRect;
+        QGraphicsLineItem *imgHistogramLine;
+        QGraphicsLineItem *imgColorbarLine;
+        QGraphicsTextItem *imgHistText;
+        QGraphicsPixmapItem *colorbar;
+        bool rectExists;
+        bool imgLoaded;
+        //QGraphicsScene *imgDisplayScene;
 
 
-        //Images Tab Widgets
-            QWidget *cImagesTab;
-            QGridLayout *imgGridLayout;
-            QLabel *imgList;
-            QLabel *imgIMG;
-            QLabel *imgStats;
+        QLabel *imgOptionsLabel;
+        QWidget *imgOptionsW;
+        //QHBoxLayout *imgOptionsLayout;
+        QGridLayout *imgOptionsLayout;
+        QPushButton *imgOpZoomIn;
+        QPushButton *imgOpZoomOut;
+        QPushButton *imgOpZoomReset;
+        int zoomCount;
+        QLabel *imgOpColormapLabel;
+        QComboBox *imgOpColormapCombo;
+        QCheckBox *imgOpInvertCheckBox;
+        QSlider *imgMinScaler;
+        QSlider *imgMaxScaler;
+        QLabel *imgMinScalerLabel;
+        QLabel *imgMaxScalerLabel;
+        QPushButton *imgOpColorscaleReset;
+        QPushButton *imgSaveButton;
+
+        //Right collum
+        QWidget *imgStatsLeftWidget;
+        QVBoxLayout *imgStatsLeftLayout;
+
+        QLabel *imgStatsLabel;
+        QWidget *imgStatsW;
+        QVBoxLayout *imgStatsLayout;
+        QLabel *imgStatsDateLabel;
+        QLabel *imgStatsImageTypeLabel;
+        QLabel *imgStatsLatLabel;
+        QLabel *imgStatsLonLabel;
+        QLabel *imgStatsAziLabel;
+        QLabel *imgStatsWidthLabel;
+        QLabel *imgStatsHeightLabel;
+        QLabel *imgStatsBytesPerPixelLabel;
+        QLabel *imgStatsOrignialDataFormatLabel;
+        QLabel *imgStatsCameraPartNumLabel;
+        QLabel *imgStatsCameraUsedLabel;
+        QLabel *imgStatsLensUsedLabel;
+        QLabel *imgStatsFovLabel;
+        QLabel *imgStatsMinLabel;
+        QLabel *imgStatsMaxLabel;
+        QLabel *imgStatsAvgLabel;
+        QGraphicsView *imgStatsHistoView;
+        myCustomScene *imgStatsHistoScene;
+        //QGraphicsScene *imgStatsHistoScene;
+        int *histo;
+        void updateHistogram();
+        QWidget *imgStatsFillerWidget;
+        QGraphicsRectItem *minRectHistItem;
+        QGraphicsRectItem *maxRectHistItem;
 
 
+    //Logs Tab Widgets
+    QWidget *cLogsTab;
+    QVBoxLayout *logsGridLayout;
+    QLabel *logsList;
+    QLabel *logsDisplay;
+            //Left collumn of logs tab splitter
+            QWidget *logsListW;
+            QVBoxLayout *logsListVLayout;
+            QLabel *logsListLbl;
+            QWidget *logsListLowerW;
+            QListView *logsListListView;
+            QFileSystemModel *logsFileModel;
+            QString *logsfDir;
+            QPushButton *logsRefreshButton;
+            void loadLog();
 
+
+            //Right collumn of logs tab splitter
+            QWidget *logsDisplayW;
+            QVBoxLayout *logsDisplayVLayout;
+            QLabel *logsDisplayLbl;
+            QWidget *logsDisplayLowerW;
+            QTextBrowser *logsDisplayTextBrowser;
+            QVBoxLayout *logsDisplayLowerVLayout;
 
     //Objects of status bar
     QString statusBar_Text;

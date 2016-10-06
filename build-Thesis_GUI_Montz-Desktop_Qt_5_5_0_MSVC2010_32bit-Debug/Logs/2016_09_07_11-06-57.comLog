@@ -1,0 +1,4 @@
+[Wed Sep 7 11:07:05 2016],TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+[Wed Sep 7 11:07:09 2016],RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+[Wed Sep 7 11:07:35 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Wed Sep 7 11:08:14 2016],TX,Function:Begin Process,Packet: 6e000003000086eb

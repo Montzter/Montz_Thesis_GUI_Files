@@ -1,0 +1,4 @@
+Sat Sep 3 16:07:56 2016,TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+Sat Sep 3 16:07:58 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sat Sep 3 16:08:03 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 16:08:03 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a772000000000000084000000000000010400000000000001440c557

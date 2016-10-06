@@ -1,0 +1,4 @@
+[Sun Sep 11 16:59:56 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e000104000ad485000100044c696e652031
+[Sun Sep 11 16:59:56 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Sun Sep 11 16:59:59 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e000104000cb443001000200123456789abcdef
+[Sun Sep 11 16:59:59 2016],TX,Function:ACK,Packet: 6e0000010000e88b

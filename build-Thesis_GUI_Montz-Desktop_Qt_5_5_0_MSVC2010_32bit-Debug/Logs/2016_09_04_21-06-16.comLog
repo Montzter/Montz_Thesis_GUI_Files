@@ -1,0 +1,28 @@
+Sun Sep 4 21:06:17 2016,TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+Sun Sep 4 21:06:21 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 21:06:29 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:06:31 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:06:33 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:06:35 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:06:37 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:06:39 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:06:46 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:06:48 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:06:50 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:06:52 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:06:54 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:06:56 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:07:19 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 21:07:21 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sun Sep 4 21:07:23 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:07:24 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:07:26 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:07:28 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:07:28 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:07:30 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:07:31 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:07:33 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:07:35 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:07:37 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 21:07:39 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 21:07:41 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b

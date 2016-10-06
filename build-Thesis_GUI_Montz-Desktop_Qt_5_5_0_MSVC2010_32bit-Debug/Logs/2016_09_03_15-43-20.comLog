@@ -1,0 +1,7 @@
+Sat Sep 3 15:43:22 2016,TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+Sat Sep 3 15:43:27 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sat Sep 3 15:43:54 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
+Sat Sep 3 15:44:02 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sat Sep 3 15:44:04 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sat Sep 3 15:44:07 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sat Sep 3 15:44:08 2016,TX,Function:Begin Process,Packet: 6e000003000086eb

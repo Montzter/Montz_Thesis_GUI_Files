@@ -49,6 +49,9 @@ public:
     QComboBox *StopComboBox;
     QLabel *label_10;
     QComboBox *FlowControlComboBox;
+    QGroupBox *groupBox_5;
+    QVBoxLayout *verticalLayout;
+    QPushButton *orientationButton;
     QGroupBox *groupBox_3;
     QVBoxLayout *verticalLayout_3;
     QHBoxLayout *horizontalLayout_9;
@@ -60,13 +63,19 @@ public:
     QHBoxLayout *horizontalLayout_10;
     QLabel *label_3;
     QLineEdit *LogSaveDirLineEdit;
-    QToolButton *toolButton_2;
+    QToolButton *logToolButton;
     QGroupBox *groupBox_2;
     QVBoxLayout *verticalLayout_2;
     QHBoxLayout *horizontalLayout_11;
     QLabel *label_2;
     QLineEdit *ImageSaveDirLineEdit;
-    QToolButton *toolButton;
+    QToolButton *imageToolButton;
+    QGroupBox *groupBox_7;
+    QHBoxLayout *horizontalLayout_6;
+    QHBoxLayout *horizontalLayout_5;
+    QLabel *label_12;
+    QLineEdit *pngCsvSaveDirectoryLineEdit;
+    QToolButton *pngcsvToolButton;
     QGroupBox *groupBox;
     QHBoxLayout *horizontalLayout_2;
     QLabel *label;
@@ -74,18 +83,24 @@ public:
     QHBoxLayout *horizontalLayout;
     QRadioButton *SystemMonitorYes;
     QRadioButton *SystemMonitorNo;
+    QGroupBox *groupBox_6;
+    QHBoxLayout *horizontalLayout_4;
+    QLabel *label_11;
+    QSpacerItem *horizontalSpacer_2;
+    QRadioButton *simAnimationEnable;
+    QRadioButton *simAnimationDisable;
     QHBoxLayout *horizontalLayout_3;
     QSpacerItem *horizontalSpacer;
-    QPushButton *pushButton;
-    QPushButton *pushButton_2;
+    QPushButton *SaveButton;
+    QPushButton *CloseButton;
 
     void setupUi(QDialog *Dialog)
     {
         if (Dialog->objectName().isEmpty())
             Dialog->setObjectName(QStringLiteral("Dialog"));
-        Dialog->resize(355, 451);
-        Dialog->setMinimumSize(QSize(355, 451));
-        Dialog->setMaximumSize(QSize(355, 451));
+        Dialog->resize(355, 637);
+        Dialog->setMinimumSize(QSize(355, 631));
+        Dialog->setMaximumSize(QSize(355, 637));
         Dialog->setStyleSheet(QLatin1String("QGroupBox\n"
 "{\n"
 "font-weight: bold;\n"
@@ -178,6 +193,18 @@ public:
 
         verticalLayout_5->addWidget(groupBox_4);
 
+        groupBox_5 = new QGroupBox(Dialog);
+        groupBox_5->setObjectName(QStringLiteral("groupBox_5"));
+        verticalLayout = new QVBoxLayout(groupBox_5);
+        verticalLayout->setObjectName(QStringLiteral("verticalLayout"));
+        orientationButton = new QPushButton(groupBox_5);
+        orientationButton->setObjectName(QStringLiteral("orientationButton"));
+
+        verticalLayout->addWidget(orientationButton);
+
+
+        verticalLayout_5->addWidget(groupBox_5);
+
         groupBox_3 = new QGroupBox(Dialog);
         groupBox_3->setObjectName(QStringLiteral("groupBox_3"));
         verticalLayout_3 = new QVBoxLayout(groupBox_3);
@@ -226,10 +253,10 @@ public:
 
         horizontalLayout_10->addWidget(LogSaveDirLineEdit);
 
-        toolButton_2 = new QToolButton(groupBox_3);
-        toolButton_2->setObjectName(QStringLiteral("toolButton_2"));
+        logToolButton = new QToolButton(groupBox_3);
+        logToolButton->setObjectName(QStringLiteral("logToolButton"));
 
-        horizontalLayout_10->addWidget(toolButton_2);
+        horizontalLayout_10->addWidget(logToolButton);
 
 
         verticalLayout_3->addLayout(horizontalLayout_10);
@@ -254,16 +281,43 @@ public:
 
         horizontalLayout_11->addWidget(ImageSaveDirLineEdit);
 
-        toolButton = new QToolButton(groupBox_2);
-        toolButton->setObjectName(QStringLiteral("toolButton"));
+        imageToolButton = new QToolButton(groupBox_2);
+        imageToolButton->setObjectName(QStringLiteral("imageToolButton"));
 
-        horizontalLayout_11->addWidget(toolButton);
+        horizontalLayout_11->addWidget(imageToolButton);
 
 
         verticalLayout_2->addLayout(horizontalLayout_11);
 
 
         verticalLayout_5->addWidget(groupBox_2);
+
+        groupBox_7 = new QGroupBox(Dialog);
+        groupBox_7->setObjectName(QStringLiteral("groupBox_7"));
+        horizontalLayout_6 = new QHBoxLayout(groupBox_7);
+        horizontalLayout_6->setObjectName(QStringLiteral("horizontalLayout_6"));
+        horizontalLayout_5 = new QHBoxLayout();
+        horizontalLayout_5->setObjectName(QStringLiteral("horizontalLayout_5"));
+        label_12 = new QLabel(groupBox_7);
+        label_12->setObjectName(QStringLiteral("label_12"));
+
+        horizontalLayout_5->addWidget(label_12);
+
+        pngCsvSaveDirectoryLineEdit = new QLineEdit(groupBox_7);
+        pngCsvSaveDirectoryLineEdit->setObjectName(QStringLiteral("pngCsvSaveDirectoryLineEdit"));
+
+        horizontalLayout_5->addWidget(pngCsvSaveDirectoryLineEdit);
+
+        pngcsvToolButton = new QToolButton(groupBox_7);
+        pngcsvToolButton->setObjectName(QStringLiteral("pngcsvToolButton"));
+
+        horizontalLayout_5->addWidget(pngcsvToolButton);
+
+
+        horizontalLayout_6->addLayout(horizontalLayout_5);
+
+
+        verticalLayout_5->addWidget(groupBox_7);
 
         groupBox = new QGroupBox(Dialog);
         groupBox->setObjectName(QStringLiteral("groupBox"));
@@ -298,21 +352,49 @@ public:
 
         verticalLayout_5->addWidget(groupBox);
 
+        groupBox_6 = new QGroupBox(Dialog);
+        groupBox_6->setObjectName(QStringLiteral("groupBox_6"));
+        groupBox_6->setAlignment(Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter);
+        horizontalLayout_4 = new QHBoxLayout(groupBox_6);
+        horizontalLayout_4->setObjectName(QStringLiteral("horizontalLayout_4"));
+        label_11 = new QLabel(groupBox_6);
+        label_11->setObjectName(QStringLiteral("label_11"));
+
+        horizontalLayout_4->addWidget(label_11);
+
+        horizontalSpacer_2 = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
+
+        horizontalLayout_4->addItem(horizontalSpacer_2);
+
+        simAnimationEnable = new QRadioButton(groupBox_6);
+        simAnimationEnable->setObjectName(QStringLiteral("simAnimationEnable"));
+        simAnimationEnable->setChecked(true);
+
+        horizontalLayout_4->addWidget(simAnimationEnable);
+
+        simAnimationDisable = new QRadioButton(groupBox_6);
+        simAnimationDisable->setObjectName(QStringLiteral("simAnimationDisable"));
+
+        horizontalLayout_4->addWidget(simAnimationDisable);
+
+
+        verticalLayout_5->addWidget(groupBox_6);
+
         horizontalLayout_3 = new QHBoxLayout();
         horizontalLayout_3->setObjectName(QStringLiteral("horizontalLayout_3"));
         horizontalSpacer = new QSpacerItem(40, 20, QSizePolicy::Expanding, QSizePolicy::Minimum);
 
         horizontalLayout_3->addItem(horizontalSpacer);
 
-        pushButton = new QPushButton(Dialog);
-        pushButton->setObjectName(QStringLiteral("pushButton"));
+        SaveButton = new QPushButton(Dialog);
+        SaveButton->setObjectName(QStringLiteral("SaveButton"));
 
-        horizontalLayout_3->addWidget(pushButton);
+        horizontalLayout_3->addWidget(SaveButton);
 
-        pushButton_2 = new QPushButton(Dialog);
-        pushButton_2->setObjectName(QStringLiteral("pushButton_2"));
+        CloseButton = new QPushButton(Dialog);
+        CloseButton->setObjectName(QStringLiteral("CloseButton"));
 
-        horizontalLayout_3->addWidget(pushButton_2);
+        horizontalLayout_3->addWidget(CloseButton);
 
 
         verticalLayout_5->addLayout(horizontalLayout_3);
@@ -321,9 +403,12 @@ public:
         groupBox_2->raise();
         groupBox_3->raise();
         groupBox_4->raise();
+        groupBox_5->raise();
+        groupBox_6->raise();
+        groupBox_7->raise();
 
         retranslateUi(Dialog);
-        QObject::connect(pushButton_2, SIGNAL(clicked()), Dialog, SLOT(accept()));
+        QObject::connect(CloseButton, SIGNAL(clicked()), Dialog, SLOT(accept()));
 
         BaudRateComboBox->setCurrentIndex(-1);
         DataComboBox->setCurrentIndex(-1);
@@ -344,22 +429,32 @@ public:
         label_8->setText(QApplication::translate("Dialog", "Parity:", 0));
         label_9->setText(QApplication::translate("Dialog", "Stop:", 0));
         label_10->setText(QApplication::translate("Dialog", "Flow Control:", 0));
+        groupBox_5->setTitle(QApplication::translate("Dialog", "Process Setup", 0));
+        orientationButton->setText(QApplication::translate("Dialog", "Process Variables", 0));
         groupBox_3->setTitle(QApplication::translate("Dialog", "Log File Setup", 0));
         label_4->setText(QApplication::translate("Dialog", "Save Log File?", 0));
         SaveLogYes->setText(QApplication::translate("Dialog", "Yes", 0));
         SaveLogNo->setText(QApplication::translate("Dialog", "No", 0));
         label_3->setText(QApplication::translate("Dialog", "Log Save Directory:    ", 0));
-        toolButton_2->setText(QApplication::translate("Dialog", "...", 0));
+        logToolButton->setText(QApplication::translate("Dialog", "...", 0));
         groupBox_2->setTitle(QApplication::translate("Dialog", "Image Save Directory", 0));
         label_2->setText(QApplication::translate("Dialog", "Image Save Directory:", 0));
-        toolButton->setText(QApplication::translate("Dialog", "...", 0));
+        imageToolButton->setText(QApplication::translate("Dialog", "...", 0));
+        groupBox_7->setTitle(QApplication::translate("Dialog", "PNG and CSV save Directory", 0));
+        label_12->setText(QApplication::translate("Dialog", "PNG and CSV Save Directory:", 0));
+        pngcsvToolButton->setText(QApplication::translate("Dialog", "...", 0));
         groupBox->setTitle(QApplication::translate("Dialog", "System Monitor Mode", 0));
         label->setText(QApplication::translate("Dialog", "Use System Monitor Mode?\n"
 "(Do not use when testing power consumption)", 0));
         SystemMonitorYes->setText(QApplication::translate("Dialog", "Yes", 0));
         SystemMonitorNo->setText(QApplication::translate("Dialog", "No", 0));
-        pushButton->setText(QApplication::translate("Dialog", "Save", 0));
-        pushButton_2->setText(QApplication::translate("Dialog", "Close", 0));
+        groupBox_6->setTitle(QApplication::translate("Dialog", "Simulation Animation", 0));
+        label_11->setText(QApplication::translate("Dialog", "Enable Simulation Animation?             \n"
+"(Uses more system resources)", 0));
+        simAnimationEnable->setText(QApplication::translate("Dialog", "Enable", 0));
+        simAnimationDisable->setText(QApplication::translate("Dialog", "Disable", 0));
+        SaveButton->setText(QApplication::translate("Dialog", "Save", 0));
+        CloseButton->setText(QApplication::translate("Dialog", "Close", 0));
     } // retranslateUi
 
 };

@@ -1,0 +1,13 @@
+Sun Sep 4 20:46:03 2016,TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+Sun Sep 4 20:46:08 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sun Sep 4 20:46:19 2016,TX,Function:Begin Process,Packet: 6e000003000086eb
+Sun Sep 4 20:46:24 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:46:29 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:46:34 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:46:39 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:46:44 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:46:49 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:46:54 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:46:59 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:47:04 2016,TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+Sun Sep 4 20:47:05 2016,TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb

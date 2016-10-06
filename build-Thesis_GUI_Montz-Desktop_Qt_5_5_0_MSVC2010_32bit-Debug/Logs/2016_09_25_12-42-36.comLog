@@ -1,0 +1,5 @@
+[Sun Sep 25 12:42:39 2016],TX,Function:Detect System,Status Updates:yes
+[Sun Sep 25 12:44:22 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 1,Total Packets: 4
+[Sun Sep 25 12:44:22 2016],TX,Function:ACK
+[Sun Sep 25 12:44:36 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 0,Total Packets: 0
+[Sun Sep 25 12:44:36 2016],TX,Function:

@@ -17,7 +17,6 @@
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenu>
 #include <QtWidgets/QMenuBar>
-#include <QtWidgets/QPushButton>
 #include <QtWidgets/QStatusBar>
 #include <QtWidgets/QWidget>
 
@@ -32,7 +31,6 @@ public:
     QAction *actionConnect;
     QAction *actionDisconnect;
     QWidget *centralWidget;
-    QPushButton *pushButton;
     QMenuBar *menuBar;
     QMenu *menuFile;
     QMenu *menuCOM;
@@ -111,9 +109,6 @@ public:
         actionDisconnect->setObjectName(QStringLiteral("actionDisconnect"));
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QStringLiteral("centralWidget"));
-        pushButton = new QPushButton(centralWidget);
-        pushButton->setObjectName(QStringLiteral("pushButton"));
-        pushButton->setGeometry(QRect(240, 240, 75, 23));
         MainWindow->setCentralWidget(centralWidget);
         menuBar = new QMenuBar(MainWindow);
         menuBar->setObjectName(QStringLiteral("menuBar"));
@@ -279,7 +274,6 @@ public:
         actionClose->setShortcut(QApplication::translate("MainWindow", "Ctrl+C", 0));
         actionConnect->setText(QApplication::translate("MainWindow", "Connect", 0));
         actionDisconnect->setText(QApplication::translate("MainWindow", "Disconnect", 0));
-        pushButton->setText(QApplication::translate("MainWindow", "PushButton", 0));
         menuFile->setTitle(QApplication::translate("MainWindow", "File", 0));
         menuCOM->setTitle(QApplication::translate("MainWindow", "Serial Port", 0));
     } // retranslateUi

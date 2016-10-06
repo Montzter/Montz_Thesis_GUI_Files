@@ -7,19 +7,19 @@
     <x>0</x>
     <y>0</y>
     <width>355</width>
-    <height>451</height>
+    <height>637</height>
    </rect>
   </property>
   <property name="minimumSize">
    <size>
     <width>355</width>
-    <height>451</height>
+    <height>631</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
     <width>355</width>
-    <height>451</height>
+    <height>637</height>
    </size>
   </property>
   <property name="windowTitle">
@@ -171,6 +171,22 @@ text-decoration: underline;
     </widget>
    </item>
    <item>
+    <widget class="QGroupBox" name="groupBox_5">
+     <property name="title">
+      <string>Process Setup</string>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout">
+      <item>
+       <widget class="QPushButton" name="orientationButton">
+        <property name="text">
+         <string>Process Variables</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
     <widget class="QGroupBox" name="groupBox_3">
      <property name="title">
       <string>Log File Setup</string>
@@ -240,7 +256,7 @@ text-decoration: underline;
          <widget class="QLineEdit" name="LogSaveDirLineEdit"/>
         </item>
         <item>
-         <widget class="QToolButton" name="toolButton_2">
+         <widget class="QToolButton" name="logToolButton">
           <property name="text">
            <string>...</string>
           </property>
@@ -273,7 +289,37 @@ text-decoration: underline;
          <widget class="QLineEdit" name="ImageSaveDirLineEdit"/>
         </item>
         <item>
-         <widget class="QToolButton" name="toolButton">
+         <widget class="QToolButton" name="imageToolButton">
+          <property name="text">
+           <string>...</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
+    <widget class="QGroupBox" name="groupBox_7">
+     <property name="title">
+      <string>PNG and CSV save Directory</string>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_6">
+      <item>
+       <layout class="QHBoxLayout" name="horizontalLayout_5">
+        <item>
+         <widget class="QLabel" name="label_12">
+          <property name="text">
+           <string>PNG and CSV Save Directory:</string>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QLineEdit" name="pngCsvSaveDirectoryLineEdit"/>
+        </item>
+        <item>
+         <widget class="QToolButton" name="pngcsvToolButton">
           <property name="text">
            <string>...</string>
           </property>
@@ -339,6 +385,56 @@ text-decoration: underline;
     </widget>
    </item>
    <item>
+    <widget class="QGroupBox" name="groupBox_6">
+     <property name="title">
+      <string>Simulation Animation</string>
+     </property>
+     <property name="alignment">
+      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+     </property>
+     <layout class="QHBoxLayout" name="horizontalLayout_4">
+      <item>
+       <widget class="QLabel" name="label_11">
+        <property name="text">
+         <string>Enable Simulation Animation?             
+(Uses more system resources)</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>40</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="simAnimationEnable">
+        <property name="text">
+         <string>Enable</string>
+        </property>
+        <property name="checked">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QRadioButton" name="simAnimationDisable">
+        <property name="text">
+         <string>Disable</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item>
     <layout class="QHBoxLayout" name="horizontalLayout_3">
      <item>
       <spacer name="horizontalSpacer">
@@ -374,6 +470,9 @@ text-decoration: underline;
   <zorder>groupBox_2</zorder>
   <zorder>groupBox_3</zorder>
   <zorder>groupBox_4</zorder>
+  <zorder>groupBox_5</zorder>
+  <zorder>groupBox_6</zorder>
+  <zorder>groupBox_7</zorder>
  </widget>
  <resources/>
  <connections>

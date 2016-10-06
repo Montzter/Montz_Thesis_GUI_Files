@@ -1,0 +1,9 @@
+[Tue Sep 6 20:12:40 2016],RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+[Tue Sep 6 20:13:06 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Tue Sep 6 20:13:07 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Tue Sep 6 20:13:09 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Tue Sep 6 20:13:10 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Tue Sep 6 20:14:21 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Tue Sep 6 20:14:22 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Tue Sep 6 20:14:24 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Tue Sep 6 20:14:25 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b

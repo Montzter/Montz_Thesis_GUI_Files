@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/myFiles">
+        <file>stylesheet.qss</file>
+        <file>cubesatTiny.png</file>
+        <file>EarthOrbitWVolc.png</file>
+        <file>MSP430_FPGA_System.png</file>
+        <file>my_icon.ico</file>
+        <file>satTiny.png</file>
+    </qresource>
+</RCC>

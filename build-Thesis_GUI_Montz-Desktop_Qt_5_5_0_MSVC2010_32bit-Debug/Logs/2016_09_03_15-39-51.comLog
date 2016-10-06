@@ -1,0 +1,16 @@
+Sat Sep 3 15:39:55 2016,TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+Sat Sep 3 15:39:59 2016,RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+Sat Sep 3 15:40:03 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 15:40:03 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7720000000000000000000000000000f03f00000000000000401f27
+Sat Sep 3 15:40:07 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 15:40:07 2016,TX,Function:Orientation Data,Current Latitude:3,Current Longitude:4,Current Azimuth:5,Packet: 6e0000050018a772000000000000084000000000000010400000000000001440c557
+Sat Sep 3 15:40:10 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 15:40:10 2016,TX,Function:Orientation Data,Current Latitude:6,Current Longitude:7,Current Azimuth:8,Packet: 6e0000050018a77200000000000018400000000000001c4000000000000020401987
+Sat Sep 3 15:40:11 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 15:40:11 2016,TX,Function:Orientation Data,Current Latitude:9,Current Longitude:10,Current Azimuth:11,Packet: 6e0000050018a77200000000000022400000000000002440000000000000264052fd
+Sat Sep 3 15:40:12 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 15:40:12 2016,TX,Function:Orientation Data,Current Latitude:12,Current Longitude:13,Current Azimuth:14,Packet: 6e0000050018a77200000000000028400000000000002a400000000000002c4085ee
+Sat Sep 3 15:40:13 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 15:40:13 2016,TX,Function:Orientation Data,Current Latitude:15,Current Longitude:16,Current Azimuth:17,Packet: 6e0000050018a7720000000000002e4000000000000030400000000000003140f072
+Sat Sep 3 15:40:15 2016,RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+Sat Sep 3 15:40:15 2016,TX,Function:Orientation Data,Current Latitude:0,Current Longitude:1,Current Azimuth:2,Packet: 6e0000050018a7720000000000000000000000000000f03f00000000000000401f27

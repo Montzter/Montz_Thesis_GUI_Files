@@ -1,0 +1,363 @@
+[Wed Oct 5 20:25:40 2016],TX,Function:Detect System,Status Updates:yes
+[Wed Oct 5 20:25:40 2016],RX,    Function:Status Update,SystemID:1,Status:14
+[Wed Oct 5 20:26:00 2016],RX,    Function:Status Update,SystemID:1,Status:15
+[Wed Oct 5 20:26:00 2016],RX,    Function:Status Update,SystemID:1,Status:16
+[Wed Oct 5 20:26:01 2016],RX,    Function:Status Update,SystemID:1,Status:17
+[Wed Oct 5 20:26:01 2016],RX,    Function:Status Update,SystemID:1,Status:18
+[Wed Oct 5 20:26:02 2016],RX,    Function:Status Update,SystemID:1,Status:19
+[Wed Oct 5 20:26:02 2016],RX,    Function:Status Update,SystemID:1,Status:20
+[Wed Oct 5 20:26:03 2016],RX,    Function:Status Update,SystemID:1,Status:21
+[Wed Oct 5 20:26:03 2016],RX,    Function:Status Update,SystemID:1,Status:22
+[Wed Oct 5 20:26:04 2016],RX,    Function:Status Update,SystemID:1,Status:23
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:04 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:05 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:06 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:07 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:08 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],TX,Function:NACK
+[Wed Oct 5 20:26:09 2016],RX,    Function:Status Update,SystemID:1,Status:27
+[Wed Oct 5 20:26:10 2016],RX,    Function:Status Update,SystemID:1,Status:28
+[Wed Oct 5 20:26:10 2016],RX,    Function:Status Update,SystemID:1,Status:29
+[Wed Oct 5 20:26:11 2016],TX,Function:NACK
+[Wed Oct 5 20:26:12 2016],RX,    Function:Status Update,SystemID:1,Status:31
+[Wed Oct 5 20:26:12 2016],RX,    Function:Status Update,SystemID:1,Status:32
+[Wed Oct 5 20:26:13 2016],RX,    Function:Status Update,SystemID:1,Status:33
+[Wed Oct 5 20:26:13 2016],RX,    Function:Status Update,SystemID:1,Status:34
+[Wed Oct 5 20:26:25 2016],TX,Function:Begin Process
+[Wed Oct 5 20:26:25 2016],RX,    Function:ACK,SystemID:1,Status:1
+[Wed Oct 5 20:26:29 2016],RX,    Function:Status Update,SystemID:1,Status:2
+[Wed Oct 5 20:26:29 2016],RX,    Function:Status Update,SystemID:1,Status:3
+[Wed Oct 5 20:26:30 2016],RX,    Function:Status Update,SystemID:1,Status:4
+[Wed Oct 5 20:26:31 2016],RX,    Function:Status Update,SystemID:1,Status:5
+[Wed Oct 5 20:26:31 2016],RX,    Function:Status Update,SystemID:1,Status:6
+[Wed Oct 5 20:26:32 2016],RX,    Function:Status Update,SystemID:1,Status:7
+[Wed Oct 5 20:26:32 2016],RX,    Function:Status Update,SystemID:1,Status:8
+[Wed Oct 5 20:26:33 2016],RX,    Function:Status Update,SystemID:1,Status:9
+[Wed Oct 5 20:26:34 2016],RX,    Function:Status Update,SystemID:1,Status:10
+[Wed Oct 5 20:26:34 2016],TX,Function:NACK
+[Wed Oct 5 20:26:35 2016],RX,    Function:Status Update,SystemID:1,Status:12
+[Wed Oct 5 20:26:35 2016],RX,    Function:Status Update,SystemID:1,Status:13
+[Wed Oct 5 20:26:39 2016],RX,    Function:Status Update,SystemID:1,Status:14
+[Wed Oct 5 20:26:40 2016],RX,    Function:Status Update,SystemID:1,Status:15
+[Wed Oct 5 20:26:40 2016],RX,    Function:Status Update,SystemID:1,Status:16
+[Wed Oct 5 20:26:41 2016],RX,    Function:Status Update,SystemID:1,Status:17
+[Wed Oct 5 20:26:41 2016],RX,    Function:Status Update,SystemID:1,Status:18
+[Wed Oct 5 20:26:42 2016],RX,    Function:Status Update,SystemID:1,Status:19
+[Wed Oct 5 20:26:42 2016],RX,    Function:Status Update,SystemID:1,Status:20
+[Wed Oct 5 20:26:43 2016],RX,    Function:Status Update,SystemID:1,Status:21
+[Wed Oct 5 20:26:43 2016],RX,    Function:Status Update,SystemID:1,Status:22
+[Wed Oct 5 20:26:44 2016],RX,    Function:Status Update,SystemID:1,Status:23
+[Wed Oct 5 20:26:44 2016],RX,    Function:Status Update,SystemID:1,Status:24
+[Wed Oct 5 20:26:48 2016],RX,    Function:Status Update,SystemID:1,Status:25
+[Wed Oct 5 20:26:49 2016],TX,Function:NACK
+[Wed Oct 5 20:26:50 2016],RX,    Function:Status Update,SystemID:1,Status:27
+[Wed Oct 5 20:26:50 2016],RX,    Function:Status Update,SystemID:1,Status:28
+[Wed Oct 5 20:26:51 2016],RX,    Function:Status Update,SystemID:1,Status:29
+[Wed Oct 5 20:26:51 2016],RX,    Function:Status Update,SystemID:1,Status:30
+[Wed Oct 5 20:26:52 2016],RX,    Function:Status Update,SystemID:1,Status:31
+[Wed Oct 5 20:26:53 2016],RX,    Function:Status Update,SystemID:1,Status:32
+[Wed Oct 5 20:26:53 2016],RX,    Function:Status Update,SystemID:1,Status:33
+[Wed Oct 5 20:26:54 2016],RX,    Function:Status Update,SystemID:1,Status:34
+[Wed Oct 5 20:28:30 2016],TX,Function:Begin Process
+[Wed Oct 5 20:28:30 2016],RX,    Function:ACK,SystemID:1,Status:1

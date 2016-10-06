@@ -1,0 +1,18 @@
+[Tue Sep 20 15:02:42 2016],TX,Function:Detect System,Status Updates:yes
+[Tue Sep 20 15:02:46 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Tue Sep 20 15:03:48 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 1,Total Packets: 4
+[Tue Sep 20 15:03:48 2016],TX,Function:ACK
+[Tue Sep 20 15:03:50 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 2,Total Packets: 4
+[Tue Sep 20 15:03:50 2016],TX,Function:ACK
+[Tue Sep 20 15:03:57 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 3,Total Packets: 4
+[Tue Sep 20 15:03:57 2016],TX,Function:ACK
+[Tue Sep 20 15:04:04 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 4,Total Packets: 4
+[Tue Sep 20 15:04:04 2016],TX,Function:ACK
+[Tue Sep 20 15:06:22 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 1,Total Packets: 4
+[Tue Sep 20 15:06:22 2016],TX,Function:ACK
+[Tue Sep 20 15:06:24 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 2,Total Packets: 4
+[Tue Sep 20 15:06:24 2016],TX,Function:ACK
+[Tue Sep 20 15:06:27 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 3,Total Packets: 4
+[Tue Sep 20 15:06:27 2016],TX,Function:ACK
+[Tue Sep 20 15:06:35 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet Number: 4,Total Packets: 4
+[Tue Sep 20 15:06:35 2016],TX,Function:ACK

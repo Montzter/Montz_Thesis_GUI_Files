@@ -1,0 +1,6 @@
+[Mon Sep 12 17:38:07 2016],RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+[Mon Sep 12 17:38:10 2016],RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+[Mon Sep 12 17:38:12 2016],RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+[Mon Sep 12 17:38:12 2016],TX,Function:Orientation Data,Current Latitude:90,Current Longitude:188,Current Azimuth:-2,Packet: 6e0000050018a7722b3039302e3030302b3138382e3030302d3030322e3030300f03
+[Mon Sep 12 17:38:13 2016],RX,    Function:Request Orientation Data,SystemID:1,Status:0,Packet: 6e0001030000f05f
+[Mon Sep 12 17:38:13 2016],TX,Function:Orientation Data,Current Latitude:3,Current Longitude:-4,Current Azimuth:5,Packet: 6e0000050018a7722b3030332e3030302d3030342e3030302b3030352e3030303e87

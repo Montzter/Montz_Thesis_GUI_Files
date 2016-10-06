@@ -1,0 +1,14 @@
+[Wed Sep 7 12:16:48 2016],TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74
+[Wed Sep 7 12:16:52 2016],RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+[Wed Sep 7 12:17:01 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Wed Sep 7 12:17:03 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Wed Sep 7 12:17:04 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Wed Sep 7 12:17:06 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Wed Sep 7 12:17:07 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Wed Sep 7 12:17:09 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Wed Sep 7 12:17:25 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Wed Sep 7 12:17:27 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Wed Sep 7 12:17:28 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Wed Sep 7 12:17:30 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b
+[Wed Sep 7 12:17:31 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Wed Sep 7 12:17:33 2016],TX,Function:Begin Transmitting Data,Packet: 6e0000040000037b

@@ -1,0 +1,22 @@
+[Wed Sep 7 17:09:31 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00010002ab
+[Wed Sep 7 17:09:31 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:32 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:32 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:36 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00010002ab
+[Wed Sep 7 17:09:36 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:37 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:37 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:38 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:38 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:39 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:39 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:39 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:39 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:43 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00010002ab
+[Wed Sep 7 17:09:43 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:44 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:44 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:45 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:45 2016],TX,Function:ACK,Packet: 6e0000010000e88b
+[Wed Sep 7 17:09:46 2016],RX,    Function:Data Transfer,SystemID:1,Status:0,Packet: 6e0001040005256a00020002cd
+[Wed Sep 7 17:09:46 2016],TX,Function:ACK,Packet: 6e0000010000e88b

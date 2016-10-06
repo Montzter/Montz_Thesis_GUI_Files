@@ -1,0 +1,8 @@
+[Sun Sep 18 16:13:40 2016],RX,    Function:Data Transfer,SystemID:1,Status:0Packet Number: 1Total Packets: 4
+[Sun Sep 18 16:13:40 2016],TX,Function:ACK
+[Sun Sep 18 16:14:49 2016],RX,    Function:Data Transfer,SystemID:1,Status:0Packet Number: 2Total Packets: 4
+[Sun Sep 18 16:14:49 2016],TX,Function:ACK
+[Sun Sep 18 16:16:00 2016],RX,    Function:Data Transfer,SystemID:1,Status:0Packet Number: 3Total Packets: 4
+[Sun Sep 18 16:16:00 2016],TX,Function:ACK
+[Sun Sep 18 16:16:52 2016],RX,    Function:Data Transfer,SystemID:1,Status:0Packet Number: 4Total Packets: 4
+[Sun Sep 18 16:16:52 2016],TX,Function:ACK

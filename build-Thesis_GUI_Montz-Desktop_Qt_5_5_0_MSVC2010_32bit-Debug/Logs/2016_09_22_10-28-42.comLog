@@ -1,0 +1,5 @@
+[Thu Sep 22 10:28:46 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Thu Sep 22 10:28:50 2016],RX,    Function:Status Update,SystemID:1,Status:1
+[Thu Sep 22 10:28:53 2016],RX,    Function:Status Update,SystemID:1,Status:4
+[Thu Sep 22 10:28:59 2016],RX,    Function:Status Update,SystemID:1,Status:0
+[Thu Sep 22 10:29:27 2016],TX,Function:Abort/Shutdown

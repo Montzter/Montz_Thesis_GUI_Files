@@ -1,0 +1,1 @@
+Fri Sep 2 22:55:44 2016,TX,Function:Detect System,Status Updates:yes,Packet: 6eff00020000eb74

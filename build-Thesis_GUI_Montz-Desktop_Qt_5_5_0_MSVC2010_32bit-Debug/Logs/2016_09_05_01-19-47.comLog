@@ -1,0 +1,4 @@
+[Mon Sep 5 01:19:59 2016],RX,    Function:Status Update,SystemID:1,Status:0,Packet: 6e0001020000c76f
+[Mon Sep 5 01:20:03 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Mon Sep 5 01:20:03 2016],TX,Function:Begin Process,Packet: 6e000003000086eb
+[Mon Sep 5 01:20:09 2016],TX,Function:Abort/Shutdown,Packet: 6e0000000000dfbb
